@@ -1,0 +1,5 @@
+v1.0.1 (07/06/2015)
+- Đổi link (đứt cáp cái đệch :D)
+
+v1.0
+- Phiên bản đầu tiên

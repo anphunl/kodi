@@ -1,0 +1,17 @@
+1.0.5 (02/06/2015)
+- Thử nghiệm âm thanh dolby 5.1
+
+1.0.4 (25/05/2015)
+- Gởi request từ local
+
+1.0.3 (23/05/2015)
+- Hỗ trợ thuyết minh (có thể tắt trong phần tùy chọn)
+
+1.0.2 (20/05/2015)
+- Tải phụ đề về máy trước khi play
+
+1.0.1 (18/05/2015)
+- Sửa lỗi regex tìm link hd
+
+1.0 (01/04/2015)
+- Phiên bản đầu tiên
