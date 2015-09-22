@@ -38,7 +38,7 @@
 
 <addon id="service.vietiptv"
        name="Viet IPTV Service"
-       version="1.0.0"
+       version="1.0.2"
        provider-name="Anphunl">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
